@@ -1,5 +1,6 @@
 ## ควบคุม LED ให้กระพริบสลับฝั่ง อิงจากแลปการใช้GPIO และ LED 
 เนื้อหาต่อยอดจาก cook-book1
+
 1.เปิด VS Code และใช้คำสั่ง Create ESP-IDF Project เพื่อสร้างโปรเจกต์ใหม่ เลือกบอร์ด ESP32 และตั้งชื่อโปรเจกต์
 
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/0fdb24b4-fb30-4f55-8039-6f67690970c6">
